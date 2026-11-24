@@ -1,0 +1,18 @@
+{
+  "name": "FinJava Senior Academy — Java Backend Tài Chính Ngân Hàng",
+  "short_name": "FinJava Senior",
+  "description": "60 bài giảng chi tiết, Mô phỏng Core Banking, Thi thử chấm điểm & Phỏng vấn Java Backend Senior ngành Ngân hàng - Fintech.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1f3a",
+  "theme_color": "#0b1f3a",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

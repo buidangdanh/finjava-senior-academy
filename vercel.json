@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "name": "finjava-senior-banking-academy",
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/sw.js",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache" }
+      ]
+    }
+  ]
+}
